@@ -1,0 +1,3 @@
+- “Changes not staged for commit” 改动的文件，但没有打包在下次提交中。
+- “Changes to be committed” 改动的文件，并且已打包在下次提交中。
+- “Untracked files” 未被追踪的文件。
